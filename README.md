@@ -2,6 +2,12 @@
 # 🍕 Pizza Sales Analysis Dashboard – Power BI With SQL
 
 This project is a dynamic and interactive Power BI dashboard built using pizza sales data. It offers key insights into customer behavior, product performance, and sales trends — powered by SQL for data analysis and Power BI for visualization.
+---
+## 📊 Dashboard Screenshots
+
+![Dashboard 1](images/dashboard1.png)
+
+![Dashboard 2](images/dashboard2.png)
 
 ---
 
