@@ -5,10 +5,14 @@ This project is a dynamic and interactive Power BI dashboard built using pizza s
 ---
 ## 📊 Dashboard Screenshots
 
+<img width="1143" height="635" alt="dashboard1" src="https://github.com/user-attachments/assets/25ae1e7e-323c-4169-9ac5-c7b2375dfef0" />
 
-![Dashboard 1](images/dashboard1.png)
 
-![Dashboard 2](images/dashboard2.png)
+
+<img width="1150" height="635" alt="dashboard2" src="https://github.com/user-attachments/assets/1552f40c-57fc-4940-bbe7-dfa62c8a38c1" />
+
+
+
 
 
 ---
