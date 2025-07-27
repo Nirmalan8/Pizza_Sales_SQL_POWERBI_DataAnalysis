@@ -45,6 +45,7 @@ This project is a dynamic and interactive Power BI dashboard built using pizza s
 | `Pizza_Sales_Report.pbix`         | Power BI dashboard showing visual insights from the pizza sales data       |
 | `pizza_sales.csv.xlsx`            | Raw dataset used for analysis (Excel format)                                |
 | `PIZZA_SALES_SQL_QUERIES.docx`    | SQL queries with result screenshots (used for preprocessing & insights)     |
+| `Pizza_Sales_Problem_statement.pptx`| PPT Probem Statement  and KPI requirement    Slides                       |
 
 
 ---
